@@ -108,7 +108,6 @@ class _LoginScreenState extends State<LoginScreen> {
   }
 }
 
-// Màn hình hiển thị cả ListView tĩnh và động
 class ListViewScreen extends StatelessWidget {
   final List<Map<String, String>> dynamicUsers = [
   {'name': 'User A', 'email': 'userA@example.com'},
