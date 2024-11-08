@@ -203,7 +203,6 @@ class ListViewScreen extends StatelessWidget {
   }
 }
 
-// Màn hình chi tiết
 class DetailScreen extends StatelessWidget {
   final String name;
   final String email;
